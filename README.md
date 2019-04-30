@@ -1,1 +1,1 @@
-Ising model
+Implementation of the Ising model for the Computational Physics course
