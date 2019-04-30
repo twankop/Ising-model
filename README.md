@@ -1,1 +1,1 @@
-Ising-model
+Ising model
